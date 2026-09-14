@@ -4,10 +4,10 @@
   "url": "https://gh-proxy.com/https://github.com/ygbkfc/blockbox/releases/download/v1.1.2/BlockBox-v1.1.2.zip",
   "url_backup": "https://ghproxy.net/https://github.com/ygbkfc/blockbox/releases/download/v1.1.2/BlockBox-v1.1.2.zip",
   "url_direct": "https://github.com/ygbkfc/blockbox/releases/download/v1.1.2/BlockBox-v1.1.2.zip",
-  "sha256": "0700A7ED2B0D92B2A6354B7F4387A990E4FEBD77A831036342254B7ED7CD1869",
-  "size": 39622471,
+  "sha256": "4D3DA05C3D73052C0A30DA2CAA9831D272FE3C8E2E52430C3C18CC92AB49B519",
+  "size": 39622610,
   "notes": "新增：自动更新 —— 发现新版点一下就自动下载、校验、替换、重启（存档和配置都不会动）；新增：一台电脑上的多个服务器都能列出来（名字、路径、世界名、端口、版本、占用大小），点「切换到它」就换过去管；新增：搭建时可以自己选存到哪个文件夹 —— 想搭第二个服务器，在弹窗里把路径改掉就行（你现在的服务器不会被删也不会被覆盖）",
   "hint": "url 走 gh-proxy 加速（国内能下）；url_direct 是 GitHub 原地址（国外快）；url_backup 是备用加速。sha256 必须和 zip 一致，对不上会自动中止更新。",
-  "sha256_full": "6043376171CE2D620CE5BB9D547FD905D88B87876B0ABC19DFACC329D9F13C34",
+  "sha256_full": "BCC0E55DD5CF2E6FA4474716CE46CD4C105AEA4F4378E4891CA865128F8D549E",
   "full_url": "https://gh-proxy.com/https://github.com/ygbkfc/blockbox/releases/download/v1.1.2/BlockBox-v1.1.2-Full.zip"
 }
