@@ -1,12 +1,13 @@
 {
-  "version": "1.1.1",
+  "version": "1.1.2",
   "date": "2026-09-14",
-  "url": "https://gh-proxy.com/https://github.com/ygbkfc/blockbox/releases/download/v1.1.1/-v1.1.1.zip",
-  "url_backup": "https://ghproxy.net/https://github.com/ygbkfc/blockbox/releases/download/v1.1.1/-v1.1.1.zip",
-  "url_direct": "https://github.com/ygbkfc/blockbox/releases/download/v1.1.1/-v1.1.1.zip",
-  "sha256": "6956C7A6CE9BE02A1A828C3FBCCE2D86D9DB2827BA44118CD963F6CC89D07706",
-  "notes": "实体监控修复（数字准确、清理只清你点的那一种）、整合包板块、模组收藏与主流模组、内网穿透与地址一键复制、五大数据源实时更新、字体重叠与界面修复",
-  "hint": "url 走 gh-proxy 加速（国内能下）；url_direct 是 GitHub 原地址（国外用户快）；url_backup 是备用加速。sha256 必须和 zip 一致，对不上会自动中止更新。",
-  "sha256_full": "542BCFA6DC878A77EF0F93FCAE3855CE30DD60EC427C1CDD2A131EA07A509749",
-  "full_url": "https://gh-proxy.com/https://github.com/ygbkfc/blockbox/releases/download/v1.1.1/-v1.1.1-完整内核.zip"
+  "url": "https://gh-proxy.com/https://github.com/ygbkfc/blockbox/releases/download/v1.1.2/BlockBox-v1.1.2.zip",
+  "url_backup": "https://ghproxy.net/https://github.com/ygbkfc/blockbox/releases/download/v1.1.2/BlockBox-v1.1.2.zip",
+  "url_direct": "https://github.com/ygbkfc/blockbox/releases/download/v1.1.2/BlockBox-v1.1.2.zip",
+  "sha256": "0700A7ED2B0D92B2A6354B7F4387A990E4FEBD77A831036342254B7ED7CD1869",
+  "size": 39622471,
+  "notes": "新增：自动更新 —— 发现新版点一下就自动下载、校验、替换、重启（存档和配置都不会动）；新增：一台电脑上的多个服务器都能列出来（名字、路径、世界名、端口、版本、占用大小），点「切换到它」就换过去管；新增：搭建时可以自己选存到哪个文件夹 —— 想搭第二个服务器，在弹窗里把路径改掉就行（你现在的服务器不会被删也不会被覆盖）",
+  "hint": "url 走 gh-proxy 加速（国内能下）；url_direct 是 GitHub 原地址（国外快）；url_backup 是备用加速。sha256 必须和 zip 一致，对不上会自动中止更新。",
+  "sha256_full": "6043376171CE2D620CE5BB9D547FD905D88B87876B0ABC19DFACC329D9F13C34",
+  "full_url": "https://gh-proxy.com/https://github.com/ygbkfc/blockbox/releases/download/v1.1.2/BlockBox-v1.1.2-Full.zip"
 }
