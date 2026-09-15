@@ -6,7 +6,7 @@
   "url_direct": "https://github.com/ygbkfc/blockbox/releases/download/v1.1.3/BlockBox-v1.1.3.zip",
   "sha256": "AFC40CCD6DE8D13B4B60A92088ABDED612EC35B23D4BD5C8213999BF24337326",
   "size": 42299041,
-  "notes": "新增：设置页多了「去赞赏」按钮 —— 点开是感谢语、表情包和收款码（完全自愿，不影响任何功能）；新增：自动更新会按顺序试多个下载地址（主加速挂了会自动换备用），用户不用管；新增：一台电脑上的多个服务器都能列出来，点「切换到它」就换过去管",
+  "notes": "新增：自动更新会按顺序试多个下载地址（主加速挂了会自动换备用），用户不用管；新增：一台电脑上的多个服务器都能列出来，点「切换到它」就换过去管",
   "hint": "url 走 gh-proxy 加速（国内能下）；url_direct 是 GitHub 原地址（国外快）；url_backup 是备用加速。sha256 必须和 zip 一致，对不上会自动中止更新。",
   "sha256_full": "4C6BFA2F3C7E0032316EF4F765D6AC0C4C7D0198C07B98F5C8697FDB17DF3C1D",
   "full_url": "https://ghproxy.net/https://github.com/ygbkfc/blockbox/releases/download/v1.1.3/BlockBox-v1.1.3-Full.zip"
